@@ -1,4 +1,4 @@
-## Some Generative Art
+## functional Art: Some Generative Art
 
 ![Img1](Img1.png)
 
